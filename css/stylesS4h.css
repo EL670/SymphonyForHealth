@@ -11,3 +11,43 @@
   margin: 0%;
   background-color: #98fb98;
 }
+
+.nav-container {
+  width: 100vw;
+  margin: 0 auto;
+  overflow: hidden;
+  text-align:center;
+}
+
+#navbar {
+  background-color: blanchedalmond;
+  border-top: 1px solid blue;
+  overflow:hidden;
+}
+
+#navbar ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#navbar ul li{
+  float: left;
+}
+
+#navbar ul li a{
+  display:block;
+  padding: 10px 20px;
+  color: blue;
+  text-decoration: none;
+  font-family: calibri, sans-serif;
+}
+
+#navbar ul li a:hover{
+  color:black;
+  background-color: aqua;
+  font-weight:normal;
+
+}
