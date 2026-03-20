@@ -3,9 +3,10 @@
   src: url("https://github.com/EL670/Test---playground/tree/main/fonts");
 }
 .intro {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Dihjauti, serif;
   color: rgb(20, 61, 99);
   font-size: 1.25rem;
+  font-weight: 700;
   border: 1px solid rgb(9, 9, 132);
   padding: 10 px;
   margin: 0%;
@@ -50,4 +51,32 @@
   background-color: aqua;
   font-weight:normal;
 
+}
+
+/* body {
+  display:grid;
+  grid-template-rows: auto auto auto;
+  min-height:100vh;  
+} */
+
+footer{
+  font-family:calibri,sans-serif;
+  width:100%;
+  background-color: #98fb98;
+  display:grid;
+  grid-template-columns: auto auto;
+}
+ 
+.mainbody_text {
+  font-family: Dihjauti, serif;
+  background-color:#ffefd5;
+  padding-bottom: 10px;
+  margin-bottom:0px;
+  color: blue;
+  border:none;
+  width: 100%;
+  font-size: 1.1rem;  
+}
+.mainbody_text h2{
+  margin-top:0px;
 }
