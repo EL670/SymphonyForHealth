@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'DihjautiS-Regular';
-  src: url("https://github.com/EL670/Test---playground/tree/main/fonts");
+  src: url("/fonts/DihjautiS-Regular.otf");
 }
 .intro {
   font-family: Dihjauti, serif;
